@@ -6,3 +6,4 @@
 /bin
 /node_modules/.bin
 /obj/Debug
+/node_modules
